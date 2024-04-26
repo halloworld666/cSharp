@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "\u4EFB\u52A1-Program",
+      "appliesTo": "cSharp-main/cSharp/2024_4_24/Program.cs",
+      "type": "launch"
+    }
+  ]
+}

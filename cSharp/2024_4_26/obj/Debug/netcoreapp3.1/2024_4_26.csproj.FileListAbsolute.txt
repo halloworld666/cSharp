@@ -1,0 +1,13 @@
+C:\Users\14167\source\repos\cSharp-master\cSharp\2024_4_26\bin\Debug\netcoreapp3.1\2024_4_26.exe
+C:\Users\14167\source\repos\cSharp-master\cSharp\2024_4_26\bin\Debug\netcoreapp3.1\2024_4_26.deps.json
+C:\Users\14167\source\repos\cSharp-master\cSharp\2024_4_26\bin\Debug\netcoreapp3.1\2024_4_26.runtimeconfig.json
+C:\Users\14167\source\repos\cSharp-master\cSharp\2024_4_26\bin\Debug\netcoreapp3.1\2024_4_26.runtimeconfig.dev.json
+C:\Users\14167\source\repos\cSharp-master\cSharp\2024_4_26\bin\Debug\netcoreapp3.1\2024_4_26.dll
+C:\Users\14167\source\repos\cSharp-master\cSharp\2024_4_26\bin\Debug\netcoreapp3.1\2024_4_26.pdb
+C:\Users\14167\source\repos\cSharp-master\cSharp\2024_4_26\obj\Debug\netcoreapp3.1\2024_4_26.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\14167\source\repos\cSharp-master\cSharp\2024_4_26\obj\Debug\netcoreapp3.1\2024_4_26.AssemblyInfoInputs.cache
+C:\Users\14167\source\repos\cSharp-master\cSharp\2024_4_26\obj\Debug\netcoreapp3.1\2024_4_26.AssemblyInfo.cs
+C:\Users\14167\source\repos\cSharp-master\cSharp\2024_4_26\obj\Debug\netcoreapp3.1\2024_4_26.csproj.CoreCompileInputs.cache
+C:\Users\14167\source\repos\cSharp-master\cSharp\2024_4_26\obj\Debug\netcoreapp3.1\2024_4_26.dll
+C:\Users\14167\source\repos\cSharp-master\cSharp\2024_4_26\obj\Debug\netcoreapp3.1\2024_4_26.pdb
+C:\Users\14167\source\repos\cSharp-master\cSharp\2024_4_26\obj\Debug\netcoreapp3.1\2024_4_26.genruntimeconfig.cache
