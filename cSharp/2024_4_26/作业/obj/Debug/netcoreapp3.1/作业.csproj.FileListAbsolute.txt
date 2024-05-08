@@ -11,3 +11,5 @@ C:\Users\14167\source\repos\cSharp-master\cSharp\2024_4_26\作业\obj\Debug\netc
 C:\Users\14167\source\repos\cSharp-master\cSharp\2024_4_26\作业\obj\Debug\netcoreapp3.1\作业.dll
 C:\Users\14167\source\repos\cSharp-master\cSharp\2024_4_26\作业\obj\Debug\netcoreapp3.1\作业.pdb
 C:\Users\14167\source\repos\cSharp-master\cSharp\2024_4_26\作业\obj\Debug\netcoreapp3.1\作业.genruntimeconfig.cache
+D:\adobe\C#\cSharp-master\cSharp\2024_4_26\作业\obj\Debug\netcoreapp3.1\作业.dll
+D:\adobe\C#\cSharp-master\cSharp\2024_4_26\作业\obj\Debug\netcoreapp3.1\作业.pdb

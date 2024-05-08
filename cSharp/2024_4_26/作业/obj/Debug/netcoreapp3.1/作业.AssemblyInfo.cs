@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("作业")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+25024cbdaebb79d6c7cd5662536b8ae6b7d8df89")]
 [assembly: System.Reflection.AssemblyProductAttribute("作业")]
 [assembly: System.Reflection.AssemblyTitleAttribute("作业")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
