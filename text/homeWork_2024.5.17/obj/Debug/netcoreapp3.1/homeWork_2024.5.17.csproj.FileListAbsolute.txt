@@ -1,0 +1,14 @@
+D:\adobe\C#\cSharp\text\homeWork_2024.5.17\bin\Debug\netcoreapp3.1\homeWork_2024.5.17.exe
+D:\adobe\C#\cSharp\text\homeWork_2024.5.17\bin\Debug\netcoreapp3.1\homeWork_2024.5.17.deps.json
+D:\adobe\C#\cSharp\text\homeWork_2024.5.17\bin\Debug\netcoreapp3.1\homeWork_2024.5.17.runtimeconfig.json
+D:\adobe\C#\cSharp\text\homeWork_2024.5.17\bin\Debug\netcoreapp3.1\homeWork_2024.5.17.runtimeconfig.dev.json
+D:\adobe\C#\cSharp\text\homeWork_2024.5.17\bin\Debug\netcoreapp3.1\homeWork_2024.5.17.dll
+D:\adobe\C#\cSharp\text\homeWork_2024.5.17\bin\Debug\netcoreapp3.1\homeWork_2024.5.17.pdb
+D:\adobe\C#\cSharp\text\homeWork_2024.5.17\obj\Debug\netcoreapp3.1\homeWork_2024.5.17.GeneratedMSBuildEditorConfig.editorconfig
+D:\adobe\C#\cSharp\text\homeWork_2024.5.17\obj\Debug\netcoreapp3.1\homeWork_2024.5.17.AssemblyInfoInputs.cache
+D:\adobe\C#\cSharp\text\homeWork_2024.5.17\obj\Debug\netcoreapp3.1\homeWork_2024.5.17.AssemblyInfo.cs
+D:\adobe\C#\cSharp\text\homeWork_2024.5.17\obj\Debug\netcoreapp3.1\homeWork_2024.5.17.csproj.CoreCompileInputs.cache
+D:\adobe\C#\cSharp\text\homeWork_2024.5.17\obj\Debug\netcoreapp3.1\homeWork_2024.5.17.sourcelink.json
+D:\adobe\C#\cSharp\text\homeWork_2024.5.17\obj\Debug\netcoreapp3.1\homeWork_2024.5.17.dll
+D:\adobe\C#\cSharp\text\homeWork_2024.5.17\obj\Debug\netcoreapp3.1\homeWork_2024.5.17.pdb
+D:\adobe\C#\cSharp\text\homeWork_2024.5.17\obj\Debug\netcoreapp3.1\homeWork_2024.5.17.genruntimeconfig.cache
