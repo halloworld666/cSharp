@@ -1,0 +1,14 @@
+D:\adobe\c#\cSharp\text\homeWork\2024_5_24\bin\Debug\netcoreapp3.1\2024_5_24.exe
+D:\adobe\c#\cSharp\text\homeWork\2024_5_24\bin\Debug\netcoreapp3.1\2024_5_24.deps.json
+D:\adobe\c#\cSharp\text\homeWork\2024_5_24\bin\Debug\netcoreapp3.1\2024_5_24.runtimeconfig.json
+D:\adobe\c#\cSharp\text\homeWork\2024_5_24\bin\Debug\netcoreapp3.1\2024_5_24.runtimeconfig.dev.json
+D:\adobe\c#\cSharp\text\homeWork\2024_5_24\bin\Debug\netcoreapp3.1\2024_5_24.dll
+D:\adobe\c#\cSharp\text\homeWork\2024_5_24\bin\Debug\netcoreapp3.1\2024_5_24.pdb
+D:\adobe\c#\cSharp\text\homeWork\2024_5_24\obj\Debug\netcoreapp3.1\2024_5_24.GeneratedMSBuildEditorConfig.editorconfig
+D:\adobe\c#\cSharp\text\homeWork\2024_5_24\obj\Debug\netcoreapp3.1\2024_5_24.AssemblyInfoInputs.cache
+D:\adobe\c#\cSharp\text\homeWork\2024_5_24\obj\Debug\netcoreapp3.1\2024_5_24.AssemblyInfo.cs
+D:\adobe\c#\cSharp\text\homeWork\2024_5_24\obj\Debug\netcoreapp3.1\2024_5_24.csproj.CoreCompileInputs.cache
+D:\adobe\c#\cSharp\text\homeWork\2024_5_24\obj\Debug\netcoreapp3.1\2024_5_24.sourcelink.json
+D:\adobe\c#\cSharp\text\homeWork\2024_5_24\obj\Debug\netcoreapp3.1\2024_5_24.dll
+D:\adobe\c#\cSharp\text\homeWork\2024_5_24\obj\Debug\netcoreapp3.1\2024_5_24.pdb
+D:\adobe\c#\cSharp\text\homeWork\2024_5_24\obj\Debug\netcoreapp3.1\2024_5_24.genruntimeconfig.cache
