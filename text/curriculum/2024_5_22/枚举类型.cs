@@ -2,6 +2,7 @@
 
 namespace _9_枚举类型
 {
+
     #region 知识点一 基本概念
 
     #region 1.枚举是什么 
@@ -35,11 +36,13 @@ namespace _9_枚举类型
     // 注意：枚举不能在函数语句块中声明！！！
     #endregion
 
+
     enum E_PlayerType
     {
         Main,
         Other,
     }
+    
 
     enum E_MonsterType
     {

@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\钟俊涛\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\钟俊涛\\.nuget\\packages",
+      "D:\\visual studio sdk\\NuGetPackages"
+    ]
+  }
+}

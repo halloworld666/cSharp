@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = _2
-build_property.ProjectDir = D:\adobe\C#\cSharp\text\tips\
+build_property.ProjectDir = D:\adobe\c#\cSharp\text\curriculum\2024_4_17\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
